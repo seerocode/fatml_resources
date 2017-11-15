@@ -45,3 +45,6 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 * [OpenAI: Requests for Research](https://discuss.openai.com/c/requests-for-research)
 * [OpenAI: Concrete Problems for AI Safety](https://blog.openai.com/concrete-ai-safety-problems/)
 
+## Videos
+* [Center for Political Studies: The Computer Says No](https://www.youtube.com/watch?v=C5J9rdey29E)
+
