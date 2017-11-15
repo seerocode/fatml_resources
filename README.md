@@ -6,9 +6,10 @@
 * [Geomblog: A Course on Fairness, Accountability and Transparency in Machine Learning](https://geomblog.github.io/fairness/)
 * [Andrew Ng: Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
 
-### ML/Data Courses (not fairness related)
+### ML/Data Courses and Tutorials (not fairness related)
 * [Machine Learning Mastery: How to Prepare a Photo Caption Dataset for Training a Deep Learning Model](https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/)
 * [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
+* [O'Reilly: How to build and run your first deep learning network](https://www.oreilly.com/learning/how-to-build-and-run-your-first-deep-learning-network)
 
 ### Textbooks:
 * [Hal Daume lll: A Course in Machine Learning](http://ciml.info/)
