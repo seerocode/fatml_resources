@@ -6,8 +6,14 @@
 * [Geomblog: A Course on Fairness, Accountability and Transparency in Machine Learning](https://geomblog.github.io/fairness/)
 * [Andrew Ng: Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
 
+### ML/Data Courses (not fairness related)
+* [Machine Learning Mastery: How to Prepare a Photo Caption Dataset for Training a Deep Learning Model](https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/)
+* [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
+
 ### Textbooks:
 * [Hal Daume lll: A Course in Machine Learning](http://ciml.info/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Ian Goodfellow and Yoshua Bengio and Aaron Courville: Deep Learning](http://www.deeplearningbook.org/)
 
 ### Conferences/Organizations:
 * [FATML.org](https://www.fatml.org/)
@@ -28,3 +34,14 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 * [Ronald Dworkin: What is Equality? Part 2: Equality of Resources](https://pdfs.semanticscholar.org/94e1/86c99471d1512eff462d2d278ce8fdbf83d0.pdf)
 * [Moritz Hardt, Eric Price, Nathan Srebro: Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
 * [Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: On the (im)possibility of fairness](https://arxiv.org/abs/1609.07236)
+
+## Tools
+* [Columbia: FairTest](https://github.com/columbia/fairtest)
+* [Open AI: Gym](https://github.com/openai/gym)
+
+## Research Prompts 
+
+### Not fairness related
+* [OpenAI: Requests for Research](https://discuss.openai.com/c/requests-for-research)
+* [OpenAI: Concrete Problems for AI Safety](https://blog.openai.com/concrete-ai-safety-problems/)
+
