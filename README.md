@@ -39,6 +39,9 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 ## Tools
 * [Columbia: FairTest](https://github.com/columbia/fairtest)
 * [Open AI: Gym](https://github.com/openai/gym)
+* [PyTorch](http://pytorch.org/tutorials/)
+* [Caffe2](https://caffe2.ai/) 
+* [Apache mxnet](https://mxnet.incubator.apache.org/tutorials/index.html)
 
 ## Research Prompts 
 
