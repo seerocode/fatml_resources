@@ -40,6 +40,7 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 * [Robin Burke: Multisided Fairness for Recommendation](https://arxiv.org/pdf/1707.00093.pdf)
 
 ## Tools
+* [Fairness Metrics](http://fairness-measures.org/)
 * [Columbia: FairTest](https://github.com/columbia/fairtest)
 * [Open AI: Gym](https://github.com/openai/gym)
 * [PyTorch](http://pytorch.org/tutorials/)
