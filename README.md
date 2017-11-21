@@ -19,6 +19,7 @@
 ### Conferences/Organizations:
 * [FATML.org](https://www.fatml.org/)
 * [FAT* Conference](https://fatconference.org/)
+* [Mechanism Design for Social Good](https://github.com/brianavecchione/fatml_resources)
 
 ### Community/Hands-on Practice:
 * [Kaggle](https://www.kaggle.com/)
