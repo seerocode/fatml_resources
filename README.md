@@ -35,6 +35,8 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 * [Ronald Dworkin: What is Equality? Part 2: Equality of Resources](https://pdfs.semanticscholar.org/94e1/86c99471d1512eff462d2d278ce8fdbf83d0.pdf)
 * [Moritz Hardt, Eric Price, Nathan Srebro: Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413)
 * [Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: On the (im)possibility of fairness](https://arxiv.org/abs/1609.07236)
+* [Cynthia Dwork, Nicole Immorlica, Adam Tauman Kalai, Max Leiserson: Decoupled classifiers for fair and efficient machine learning](https://arxiv.org/abs/1707.06613)
+* [Robin Burke: Multisided Fairness for Recommendation](https://arxiv.org/pdf/1707.00093.pdf)
 
 ## Tools
 * [Columbia: FairTest](https://github.com/columbia/fairtest)
