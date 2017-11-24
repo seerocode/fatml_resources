@@ -42,6 +42,7 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 ## Tools
 * [Fairness Metrics](http://fairness-measures.org/)
 * [Columbia: FairTest](https://github.com/columbia/fairtest)
+* [Theano](http://deeplearning.net/software/theano/tutorial/index.html)
 * [Open AI: Gym](https://github.com/openai/gym)
 * [PyTorch](http://pytorch.org/tutorials/)
 * [Caffe2](https://caffe2.ai/) 
