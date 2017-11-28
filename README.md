@@ -7,6 +7,9 @@
 * [Geomblog: A Course on Fairness, Accountability and Transparency in Machine Learning](https://geomblog.github.io/fairness/)
 * [Andrew Ng: Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
 
+### Slides/materials from existing courses:
+* [Fairness in ML Slides: Moritz Hardt](https://www.ece.cmu.edu/~ece734/fall2014/lectures/16.Fairness.pdf)
+
 ### ML/Data Courses and Tutorials (not fairness related)
 * [Machine Learning Mastery: How to Prepare a Photo Caption Dataset for Training a Deep Learning Model](https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/)
 * [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
@@ -25,7 +28,7 @@
 ### Community/Hands-on Practice:
 * [Kaggle](https://www.kaggle.com/)
 
-### Recommended Readings (this is the good stuff):
+### Recommended Readings:
 * [Matt J. Kusner, Joshua R. Loftus, Chris Russell, Ricardo Silva: Counterfactual Fairness](https://arxiv.org/abs/1703.06856)
 * [Niki Kilbertus, Mateo Rojas-Carulla, Giambattista Parascandolo,
 Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination through Causal Reasoning](https://arxiv.org/pdf/1706.02744.pdf)
@@ -39,6 +42,9 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 * [Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian: On the (im)possibility of fairness](https://arxiv.org/abs/1609.07236)
 * [Cynthia Dwork, Nicole Immorlica, Adam Tauman Kalai, Max Leiserson: Decoupled classifiers for fair and efficient machine learning](https://arxiv.org/abs/1707.06613)
 * [Robin Burke: Multisided Fairness for Recommendation](https://arxiv.org/pdf/1707.00093.pdf)
+
+### Applied ML readings (not fairness-related)
+* [Anand Avati, Kenneth Jung, Stephanie Harman, Lance Downing, Andrew Ng, Nigam H. Shah](https://arxiv.org/abs/1711.06402)
 
 ## Tools
 * [Fairness Metrics](http://fairness-measures.org/)
