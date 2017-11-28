@@ -6,6 +6,7 @@
 * [UC Berkeley CS294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [Geomblog: A Course on Fairness, Accountability and Transparency in Machine Learning](https://geomblog.github.io/fairness/)
 * [Andrew Ng: Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
+* [Amazon AWS: Intro to ML](https://aws.amazon.com/training/course-descriptions/machine-learning/?sc_channel=PS&sc_campaign=training_certification_od_machine_learning_2017&sc_publisher=google&sc_medium=awns_training_certification_od_machine_learning_nb&sc_content=machine_learning_p&sc_detail=machine%20learning%20course&sc_category=training_certification_od_machine_learning&sc_segment=229680922032&sc_matchtype=p&sc_country=US&s_kwcid=AL!4422!3!229680922032!p!!g!!machine%20learning%20course&ef_id=WZHBHgAAAIW2rAN_:20171128025656:s)
 
 ### Slides/materials from existing courses:
 * [Fairness in ML Slides: Moritz Hardt](https://www.ece.cmu.edu/~ece734/fall2014/lectures/16.Fairness.pdf)
