@@ -16,6 +16,7 @@
 * [Machine Learning Mastery: How to Prepare a Photo Caption Dataset for Training a Deep Learning Model](https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/)
 * [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
 * [O'Reilly: How to build and run your first deep learning network](https://www.oreilly.com/learning/how-to-build-and-run-your-first-deep-learning-network)
+* [How to Develop a Deep Learning Caption Generation Model in Python from Scratch](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)
 
 ### Textbooks:
 * [Hal Daume lll: A Course in Machine Learning](http://ciml.info/)
