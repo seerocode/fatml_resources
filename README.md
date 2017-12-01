@@ -26,6 +26,7 @@
 ### Conferences/Organizations:
 * [FATML.org](https://www.fatml.org/)
 * [FAT* Conference](https://fatconference.org/)
+* [Auditing Algorithms](http://auditingalgorithms.science/)
 * [Mechanism Design for Social Good](https://github.com/brianavecchione/fatml_resources)
 
 ### Community/Hands-on Practice:
