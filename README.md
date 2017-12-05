@@ -25,6 +25,7 @@
 
 ### Conferences/Organizations:
 * [FATML.org](https://www.fatml.org/)
+* [Partnership on AI](https://www.partnershiponai.org/)
 * [FAT* Conference](https://fatconference.org/)
 * [Auditing Algorithms](http://auditingalgorithms.science/)
 * [Mechanism Design for Social Good](https://github.com/brianavecchione/fatml_resources)
