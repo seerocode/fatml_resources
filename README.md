@@ -52,6 +52,7 @@ Moritz Hardt, Dominik Janzing, Bernhard Scholkopf: Avoiding Discrimination throu
 * [Anand Avati, Kenneth Jung, Stephanie Harman, Lance Downing, Andrew Ng, Nigam H. Shah](https://arxiv.org/abs/1711.06402)
 
 ## Tools
+* [Speak Statistics to Power](https://speak-statistics-to-power.github.io/fairness/)
 * [Fairness Metrics](http://fairness-measures.org/)
 * [Columbia: FairTest](https://github.com/columbia/fairtest)
 * [Theano](http://deeplearning.net/software/theano/tutorial/index.html)
